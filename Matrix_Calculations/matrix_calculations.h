@@ -298,7 +298,7 @@ public:
 	//		accordingly
 	// Parameter:
 	// bSymmtrical, true if the matrix is sysmetric, false if using non-symmetric reductions
-	void setSymmetrical(bool bSymmetrical);;
+	void setSymmetrical(bool bSymmetrical);
 	// Reduce to real schur form using Francis QR method, for example
 	// * * * * * *
 	// * * * * * *
